@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B3A6B,2E6DA4&height=200&section=header&text=Sammy%20M.%20Kasango&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Systems%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" />
-
+  <br><br>
 <!-- Typing SVG -->
 <a href="https://github.com/sammy-mwendwa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E6DA4&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Systems+%26+Backend+Engineer+%F0%9F%94%A7;API+%26+Database+Architect+%F0%9F%97%84%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
