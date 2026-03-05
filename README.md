@@ -111,13 +111,6 @@ Currently pursuing a **B.Sc. in Software Engineering** at Murang'a University of
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sammy-mwendwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=2E6DA4&icon_color=2E6DA4&border_color=1B3A6B"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammy-mwendwa&layout=compact&langs_count=8&theme=tokyonight&title_color=2E6DA4&border_color=1B3A6B"/>
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-mwendwa&theme=tokyonight&ring=2E6DA4&fire=FF6B35&currStreakLabel=2E6DA4&border=1B3A6B" />
 </div>
 
