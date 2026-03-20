@@ -1,3 +1,4 @@
+
 <div align="center">
   <br><br>
 <!-- Typing SVG -->
@@ -9,7 +10,7 @@
 
 <!-- ─── PROFILE BADGES ─── -->
 <p align="left-justify">
-  <a href="https://sammykasango.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1e3a2f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;<a href="mailto:kasangosammy@gmail.com"><img src="https://img.shields.io/badge/Email-kasangosammy%40gmail.com-b85e1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-2a4f40?style=for-the-badge&logo=google-maps&logoColor=white" alt="Nairobi, Kenya"/>
+  <a href="https://sammykasango.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1e3a2f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;<a href="mailto:hellosammykasango@gmail.com"><img src="https://img.shields.io/badge/Email-hellosammykasango%40gmail.com-b85e1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-2a4f40?style=for-the-badge&logo=google-maps&logoColor=white" alt="Nairobi, Kenya"/>
 </p>
 
 </div>
@@ -124,10 +125,10 @@ Currently pursuing a **B.Sc. in Software Engineering** at Murang'a University of
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sammy-m-kasango-91287a37b?utm_source=share&utm_campaign=share_via&utm_content=profile&" 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sammykasango" 
 )
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1B3A6B?style=for-the-badge&logo=linktree&logoColor=white)](https://sammykasango.github.io)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasangosammy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellosammykasango@gmail.com)
 
 <br/>
 
